@@ -1,1 +1,1 @@
-<img src="templates/img/diagramaClases.png"/>
+<img src="../img/diagramaClases.png"/>
