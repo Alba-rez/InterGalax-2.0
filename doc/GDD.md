@@ -97,7 +97,7 @@
 >
 > * Xogables: Astro, unha astronauta vestida con un traxe naranxa.
 >   
->  <img src="doc/img/Astro.png"/>
+>  <img src="img/Astro.png"/>
 >
 > 
 > * Inimigos: Robots hostís. Se Astro interactúa cos robots ( choque, tocar)  perdería 1 vida, e colisiona tamén cos seus raios láser:
