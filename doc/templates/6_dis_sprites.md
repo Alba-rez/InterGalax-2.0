@@ -132,7 +132,7 @@
   - **Capa única:** Sprite dunha galaxia en movemento (fondo fixo sen superposicións).
 - [Sprite de Fondo pantalla inicio](../img/Space.png)
 
-- **Fase 1:**
+## **Fase 1:**
   - Nome: Fondo árido
   - Fonte: IA (DALL-E )
   - Descrición: Paisaxe con tons vermellos e montañas cobrizas.
@@ -142,7 +142,7 @@
   - **Segunda capa:** Paisaxe árido con montañas de tonos vermellos 
     - [Fondo fase 1](../img/redP.png)
   
-- **Fase 2:**
+## **Fase 2:**
   - Nome: Fondo vexetal
   - Fonte: Asset Store
   - Descrición: Fondo con capas de vexetación e raios de luz.
@@ -153,7 +153,7 @@
     - [Árbores próximas](../img/troncos.png)
   - **Terceira capa:** Raios de luz e vexetación afastada  
     - [Fondo fase 2](../img/Fondo2.jpg)
-- **Fase 3:**
+## **Fase 3:**
   - Nome: Fondo xeado
   - Fonte: itch.io
   - Descrición: Paisaxe branca con montañas xeadas.
@@ -166,7 +166,7 @@
     - [Montañas afastadas](../img/mont2.png)
   - **Cuarta capa:** Fondo nebuloso branco  
     - [Neve distante](../img/IceMont.png)
-- **Fase 4:**
+## **Fase 4:**
   - Nome: Fondo mineiro
   - Fonte: IA (DALL-E)
   - Descrición: Paisaxe de tons amarelos con terreo rocoso.
@@ -179,7 +179,7 @@
 ---
 
 ## 2. Personaxes
-- **Astro (Player):**
+### **Astro (Player):**
   - Nome: Astro
   - Fonte: Asset Store
   - Resolución: 160x160(cada frame de animación)
@@ -190,7 +190,7 @@
     - [Astro salta](../img/AstroJump.png)
 
 
-- **Robots:**
+### **Robots:**
   - Nome: Robot (variantes Fase 1)
   - Fonte: IA (DALL-E)
   - Descrición: Sprite con movemento e prefab de disparo.
@@ -233,7 +233,7 @@
 ---
 
 ## 3. Obxectos Interactivos
-- **Combustible:**
+### **Combustible:**
   - Nome: Caixa metálica (Fase 1, Fase 4)
   - Fonte: Asset Store
   - Descrición: Caixa con animación de explosión e son de explosión.
@@ -254,7 +254,7 @@
   - Descrición: Cristal animado con oscilación vertical e son cando o player a toca.
   - [Cristal](../img/Crystal_03.png)
    
-- **Trampas:**
+### **Trampas:**
   - Nome: Picas (Fase 1)
   - Fonte: Asset Store
   - Descrición: Sprite estático.
