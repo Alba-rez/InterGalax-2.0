@@ -130,7 +130,7 @@
 - **Descrición:** Fondo dinámico con efecto de desprazamento vertical.
 - **Capas:**
   - **Capa única:** Sprite dunha galaxia en movemento (fondo fixo sen superposicións).
-- [Sprite de Fondo pantalla inicio](img/Space.png)
+- [Sprite de Fondo pantalla inicio](../img/Space.png)
 
 - **Fase 1:**
   - Nome: Fondo árido
@@ -138,9 +138,9 @@
   - Descrición: Paisaxe con tons vermellos e montañas cobrizas.
   - **Capas de Parallax:**
   - **Primeira capa:** Montañas cobrizas próximas  
-    - [Montañas cobrizas](img/redmountains.png)
+    - [Montañas cobrizas](../img/redmountains.png)
   - **Segunda capa:** Paisaxe árido con montañas de tonos vermellos 
-    - [Fondo fase 1](img/redP.png)
+    - [Fondo fase 1](../img/redP.png)
   
 - **Fase 2:**
   - Nome: Fondo vexetal
@@ -148,33 +148,33 @@
   - Descrición: Fondo con capas de vexetación e raios de luz.
   - **Capas de Parallax:**
   - **Primeira capa:** Liña de herba  
-    - [Liña de herba](img/linhaherba.png)
+    - [Liña de herba](../img/linhaherba.png)
   - **Segunda capa:** Troncos de árbores e arbustos  
-    - [Árbores próximas](img/troncos.png)
+    - [Árbores próximas](../img/troncos.png)
   - **Terceira capa:** Raios de luz e vexetación afastada  
-    - [Fondo fase 2](img/Fondo2.jpg)
+    - [Fondo fase 2](../img/Fondo2.jpg)
 - **Fase 3:**
   - Nome: Fondo xeado
   - Fonte: itch.io
   - Descrición: Paisaxe branca con montañas xeadas.
   - - **Capas de Parallax:**
   - **Primeira capa:** Tundra próxima  
-    - [Tundra próxima](img/tundra.png)
+    - [Tundra próxima](../img/tundra.png)
   - **Segunda capa:** Montañas xeadas medias  
-    - [Montañas medias](img/mont1.png)
+    - [Montañas medias](../img/mont1.png)
   - **Terceira capa:** Montañas xeadas afastadas  
-    - [Montañas afastadas](img/mont2.png)
+    - [Montañas afastadas](../img/mont2.png)
   - **Cuarta capa:** Fondo nebuloso branco  
-    - [Neve distante](img/IceMont.png)
+    - [Neve distante](../img/IceMont.png)
 - **Fase 4:**
   - Nome: Fondo mineiro
   - Fonte: IA (DALL-E)
   - Descrición: Paisaxe de tons amarelos con terreo rocoso.
   - **Capas de Parallax:**
   - **Primeira capa:** Terreo rocoso elevado  
-    - [Rochas próximas](img/rocky.png)
+    - [Rochas próximas](../img/rocky.png)
   - **Segunda capa:** Montañas amarelas afastadas  
-    - [Montañas amarelas](img/yellowP.png)
+    - [Montañas amarelas](../img/yellowP.png)
 
 ---
 
@@ -185,9 +185,9 @@
   - Resolución: 160x160(cada frame de animación)
   - Descrición: Sprite animado para camiñar, saltar e quedar inmóbil.
   - Player
-    - [Astro quieto](img/Astro.png)
-    - [Astro camiña](img/AstroWalk.png)
-    - [Astro salta](img/AstroJump.png)
+    - [Astro quieto](../img/Astro.png)
+    - [Astro camiña](../img/AstroWalk.png)
+    - [Astro salta](../img/AstroJump.png)
 
 
 - **Robots:**
@@ -195,41 +195,41 @@
   - Fonte: IA (DALL-E)
   - Descrición: Sprite con movemento e prefab de disparo.
   - Variacións: Modificados para cada fase.
-  -  [Robot](img/Robot8.png)
-  -  [Robot](img/Robot7.png)
-  -  [Robot](img/Robot9.png)
-  -  [Robot](img/Robot12.png)
-  -  [Robot](img/Robot6.png)
-  -  [Robot](img/Robot10.png)
+  -  [Robot](../img/Robot8.png)
+  -  [Robot](../img/Robot7.png)
+  -  [Robot](../img/Robot9.png)
+  -  [Robot](../img/Robot12.png)
+  -  [Robot](../img/Robot6.png)
+  -  [Robot](../img/Robot10.png)
 
   - Nome: Robot (variantes Fase 2)
   - Fonte: IA (DALL-E)
   - Descrición: Sprite con movemento e prefab de disparo.
   - Variacións: Modificados para cada fase.
-  - [Robot](img/Robot6.png)
-  - [Robot](img/Robot14.png)
-  - [Robot](img/Robot13.png)
-  - [Robot](img/Robot15.png)
-  - [Robot](img/Robot10.png)
-  - [Robot](img/Robot16.png)
+  - [Robot](../img/Robot6.png)
+  - [Robot](../img/Robot14.png)
+  - [Robot](../img/Robot13.png)
+  - [Robot](../img/Robot15.png)
+  - [Robot](../img/Robot10.png)
+  - [Robot](../img/Robot16.png)
 
   - Nome: Robot (variantes Fase 3)
   - Fonte: IA (DALL-E)
   - Descrición: Sprite con movemento e prefab de disparo.
   - Variacións: Modificados para cada fase.
-  - [Robot](img/Robot1.png)
-  - [Robot](img/Robot2.png)
-  - [Robot](img/Robot4.png)
-  - [Robot](img/Robot6.png)
+  - [Robot](../img/Robot1.png)
+  - [Robot](../img/Robot2.png)
+  - [Robot](../img/Robot4.png)
+  - [Robot](../img/Robot6.png)
   
 
   - Nome: Robot (variantes Fase 4)
   - Fonte: IA (DALL-E)
   - Descrición: Sprite con movemento e prefab de disparo.
   - Variacións: Modificados para cada fase.
-  - [Robot](img/Robot3.png)
-  - [Robot](img/Robot11.png)
-  - [Robot](img/Robot22.png)
+  - [Robot](../img/Robot3.png)
+  - [Robot](../img/Robot11.png)
+  - [Robot](../img/Robot22.png)
 ---
 
 ## 3. Obxectos Interactivos
@@ -237,63 +237,63 @@
   - Nome: Caixa metálica (Fase 1, Fase 4)
   - Fonte: Asset Store
   - Descrición: Caixa con animación de explosión e son de explosión.
-  - [Caixa](img/Box_01.png)
+  - [Caixa](../img/Box_01.png)
  
   - Nome: Caixa metálica (Fase 2)
   - Fonte: Asset Store
   - Descrición: Caixa con animación de explosión e son de explosión.
-  - [Caixa](img/Box_02.png)
+  - [Caixa](../img/Box_02.png)
  
   - Nome: Caixa de madeira (Fase 5)
   - Fonte: Asset Store
   - Descrición: Caixa con animación de explosión e son de explosión.
-  - [Caixa](img/Box_05.png)
+  - [Caixa](../img/Box_05.png)
  
   - Nome: Cristal brillante (todas as fases)
   - Fonte: Asset Store
   - Descrición: Cristal animado con oscilación vertical e son cando o player a toca.
-  - [Cristal](img/Crystal_03.png)
+  - [Cristal](../img/Crystal_03.png)
    
 - **Trampas:**
   - Nome: Picas (Fase 1)
   - Fonte: Asset Store
   - Descrición: Sprite estático.
- - [Picas](img/Spike_01.png)
+ - [Picas](../img/Spike_01.png)
 
   - Nome: Plantas e vexetación (Fase 2)
   - Fonte: itch.io
   - Descrición: Sprite estático.
-  - [Herba](img/grass.png)
-  - [Flores](img/flores.png)
+  - [Herba](../img/grass.png)
+  - [Flores](../img/flores.png)
 
 
   - Nome: Láser de picas (Fase 3)
   - Fonte: itch.io
   - Descrición: Sprite animado con brillo perigoso.
-  - [Láser](img/laser_spikes_idle.png)
+  - [Láser](../img/laser_spikes_idle.png)
 
   - Nome: Bidón radiactivo (Fase 3)
   - Fonte: itch.io
   - Descrición: Sprite estático.
-  - [Bidón](img/decor_01.png)
+  - [Bidón](../img/decor_01.png)
 
 
   - Nome: Cogomelos radiactivos e estalacmitas de diamante(Fase 4)
   - Fonte: itch.io
   - Descrición: Sprite estático.
-  - [Cogomelos e estalacmitas](img/traps4.png)
+  - [Cogomelos e estalacmitas](../img/traps4.png)
 
 
   - Nome: Estalactitas de diamante (Fase 4)
   - Fonte: itch.io
   - Descrición: Sprite estático.
-  - [Estalactitas](img/trapsEstalacM.png)
+  - [Estalactitas](../img/trapsEstalacM.png)
 
 
   - Nome: Estructuras rocosas (Fase 4)
   - Fonte: itch.io
   - Descrición: Sprite estático. 
-  - [Estructura rocosa](img/rocas.png)
+  - [Estructura rocosa](../img/rocas.png)
 
 ---
 
@@ -302,15 +302,15 @@
   - Nome: Indicador de combustible
   - Fonte: Photoshop
   - Descrición: Sprite animado que se enche en proporción ao progreso.
-  - [Barra combustible llena](img/fuel.png)
-  - [Barra combustible vacía](img/BOF.png)
+  - [Barra combustible llena](../img/fuel.png)
+  - [Barra combustible vacía](../img/BOF.png)
 
 
 - **Vidas:**
   - Nome: Mini Astro
   - Fonte: Derivado do sprite de Astro
   - Descrición: Iconas que representan as vidas restantes.
-  - [Vidas](img/Vidas.png)
+  - [Vidas](../img/Vidas.png)
 
 ---
 
@@ -319,4 +319,4 @@
   - Nome: SpaceShip
   - Fonte: Asset Store
   - Descrición: Sprite con animacións de propulsión e despegue.
-  - [Nave espacial](img/SpaceShip.png)
+  - [Nave espacial](../img/SpaceShip.png)
