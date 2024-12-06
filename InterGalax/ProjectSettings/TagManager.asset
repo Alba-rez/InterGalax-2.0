@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Platform
+  - Tramps
+  - Spaceship
+  - Box
+  - Robot
+  - RedRobot
+  - Shoot
+  - Crystal
+  - Traps
+  - Cave
+  - Glass
+  - Score
+  - Message
+  - Lives
+  - Walls
+  - Ship
+  - Deco
+  - Cutter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Terrain
+  - Caves
+  - Platform
+  - Tramps
+  - Player
+  - Spaceship
+  - Box
+  - Background
+  - Robot
+  - Shoot
+  - Traps
+  - Deco
+  - Cutter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Parallax
+    uniqueID: 3052439529
+    locked: 0
+  - name: Map
+    uniqueID: 3977794723
+    locked: 0
+  - name: Caves
+    uniqueID: 1146011133
+    locked: 0
+  - name: Traps
+    uniqueID: 1070413033
+    locked: 0
+  - name: Terrain
+    uniqueID: 297458031
+    locked: 0
+  - name: Platform
+    uniqueID: 977369947
+    locked: 0
+  - name: Traps
+    uniqueID: 2420782981
+    locked: 0
+  - name: Planets
+    uniqueID: 751976405
+    locked: 0
+  - name: Spaceship
+    uniqueID: 3840816885
+    locked: 0
+  - name: Box
+    uniqueID: 4001331763
+    locked: 0
+  - name: Robot
+    uniqueID: 382245229
+    locked: 0
+  - name: Player
+    uniqueID: 1650649293
+    locked: 0
+  - name: Explosion
+    uniqueID: 1520334569
+    locked: 0
+  - name: Shoot
+    uniqueID: 3110264971
+    locked: 0
+  - name: Deco
+    uniqueID: 2866947101
+    locked: 0
+  - name: Cutter
+    uniqueID: 4070070773
+    locked: 0
