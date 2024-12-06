@@ -1,1 +1,0 @@
-<img src="doc/img/dFluxos.png"/>
