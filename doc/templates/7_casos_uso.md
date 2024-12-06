@@ -1,4 +1,4 @@
-<img src="doc/img/CasosUso.png"/>
+<img src="img/CasosUso.png"/>
 
 # Pantalla de inicio
 ## Casos de uso:
