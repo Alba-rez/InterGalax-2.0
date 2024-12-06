@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Tabla1
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 8af65dde58137a44d8dc89b19a5de04d, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 5509ff82cf0940b4286b9ea06164bc1d, type: 2}
+  - {fileID: 11400000, guid: aab288ca1f2c87f458e4315519adf570, type: 2}
+  m_Extensions:
+  - rid: 7158240224244138009
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds:
+    - rid: 7158240224244138009
+      type: {class: CsvExtension, ns: UnityEditor.Localization.Plugins.CSV, asm: Unity.Localization.Editor}
+      data:
+        m_Collection: {fileID: 11400000}
+        m_ColumnsList:
+        - rid: 7158240224244138010
+        - rid: 7158240224244138011
+        - rid: 7158240224244138012
+        m_ConnectedFile: 
+    - rid: 7158240224244138010
+      type: {class: KeyIdColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_IncludeId: 1
+        m_IncludeSharedComments: 1
+        m_KeyFieldName: Key
+        m_IdFieldName: Id
+        m_CommentFieldName: Shared Comments
+    - rid: 7158240224244138011
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: en
+        m_FieldName: English(en)
+        m_CommentFieldName: English(en) Comments
+        m_IncludeComments: 1
+    - rid: 7158240224244138012
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: gl-ES
+        m_FieldName: Galician (Spain)(gl-ES)
+        m_CommentFieldName: Galician (Spain)(gl-ES) Comments
+        m_IncludeComments: 1

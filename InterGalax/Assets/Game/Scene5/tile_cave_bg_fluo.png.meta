@@ -1,0 +1,2476 @@
+fileFormatVersion: 2
+guid: 40a0687fd9745fd46adc0f4e1fa72a6a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f682e6cf63534343b900bbae00fb034
+      internalID: -1296958731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6542b8ee5bda343b28eb860a45280f
+      internalID: -1648107196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f10cf1533afbf8429e4afd803d7f3ba
+      internalID: 464599538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232fae3ef892e44b861cf7c7159faea
+      internalID: -350319380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f8ba7b6f976a345836e570dcd1bb59
+      internalID: 294123100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4706214d50bba9d469729b5da56bbfcd
+      internalID: 689312741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca8ac333f4cff94ab70aa0aef24b9fc
+      internalID: -599784138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627bf114d16a9294583a0bb119003bc8
+      internalID: 1896704955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39e44d922f48754b8504b860c5a9d76
+      internalID: 1280755658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6d480cea3da4a438c60c7e2519283a
+      internalID: 1759539945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63007c490efc2de40b2281fc862615fa
+      internalID: -1172935786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d1e4cc11cdcb7439b3454bc4e14632
+      internalID: -335224373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354cf8527f201e848bfa925fb5ca23fa
+      internalID: 1360681667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cedb60d8cb2aa42b2d764a54bf2e3d
+      internalID: -624054722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1847ba85bb11af04a815bd1a9c03ec0c
+      internalID: 1556554221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466970208415e741ae7aa7f969ef400
+      internalID: -1929153351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20b368e6427f24c937fda53dd99b06
+      internalID: 702902828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62844534e101fa47ab82581957743c4
+      internalID: -1458907633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bf59e10d21c184baa388529ff065fa
+      internalID: 110982338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bca8bda88a1c8458a289a363959a7e
+      internalID: -2087556816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_20
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040895459b8b83746a50bc3f2026e956
+      internalID: 1649114405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3e8bf8c78d24d4a8e18d3fefe5dab6
+      internalID: 2060356328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b96e410bdb0c7b4a9ad972329416478
+      internalID: 1256722256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cfe9106ee178846bcd71ce414a11b9
+      internalID: -495625386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca9a8c2d62fa764683ad3799191cc7a
+      internalID: -435655102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_25
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a498f4c95a2431d4989621e9511dc904
+      internalID: -921996385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 152
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a03056c655dc224786aececa529fc6e
+      internalID: 1103495935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcffecfb10f05d4f86c5e5469b1d87f
+      internalID: 997197921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18ca434b8b28114da4ea1a4faa29157
+      internalID: -309007589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dae4509a07a1be4889db40464f9ead0
+      internalID: -1556016127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d53483d81d06fa4a94eda35b965f94c
+      internalID: 871136459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e467b819c72989c4096da6745adcd1b9
+      internalID: 165913551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c12541b38c2714fa925ef876730352
+      internalID: -2010844352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17661f91542613541b5ef425a6235edd
+      internalID: -345285505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74762451bc0603d499b244356a689d83
+      internalID: 879181651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3552293626b6a04ba624d106535b6c8
+      internalID: -1268464267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f979a5cc90f17164984895564f39ed45
+      internalID: 1450135275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e42e08256a298478e60b74a3a6c33e
+      internalID: -3968364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f74cd02358b1f41ad0cafe7c1fe755
+      internalID: -1238287207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c1bd9dcd62c144f86735bc67d3a7de
+      internalID: -291592983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_40
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79b3f6d5b0d6d341b4d5d8f51fd7034
+      internalID: 2634487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c261c7045685645a713821d6bd1dd6
+      internalID: 1992651497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c9a8f41d4b6c04ca27402deaceb2c8
+      internalID: -1489979765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e041349b080d1c46836b040e19d7a21
+      internalID: -1235464539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_44
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cdd223053777c41950957910710288
+      internalID: 2078347433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391a012e59abf3644b5e37e16b1722d0
+      internalID: -1853991616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_46
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44799867b5ce57544be20b3a309a46e8
+      internalID: 2106709480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873f348a10b3f9643bc306526c7b4620
+      internalID: -240538312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_48
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1b63380fd4f3459fb6aa8177a9c71
+      internalID: 458783666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_49
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8553d6fc0ba8f7941adb8e752a8ab6be
+      internalID: 414887127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_50
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d93f23f862e3542b89db2682a72a43
+      internalID: 14262375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec0ccc94d35bfe438d556a27b5a4f53
+      internalID: -878095163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0798d0e975c65d7418735308ec911ed9
+      internalID: 1710364348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf6ef47e201b3149b3d64d55da978c0
+      internalID: 1105700343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ffbb9c87687f04fa4435f56807e54b
+      internalID: 833995950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5954b762750ae0747b2e254d1f047259
+      internalID: 213685908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2110c69db81a32d4eab54bbe6ea8a717
+      internalID: 1448686721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ad0de378b2824e825b3c42ade8665
+      internalID: -2004947879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06f44e6a1e39e3469f9be15ae5e241c
+      internalID: 1881975271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_59
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05030f330c0ea8547892f04698cc092a
+      internalID: 265019938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac87bbcbe0bffd5428dc5fa64e669cb8
+      internalID: 909624610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf44ff0465057c4cb31d6591df86e91
+      internalID: -1782785704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6ef01cd991c9d419b8bf4452d5992e
+      internalID: -1398844211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_63
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e9cef3686e9f541831ae6683adffa9
+      internalID: 1274357817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a8e912111cfc64f9338aee44696634
+      internalID: 1761326301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_65
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5d757214d8ce24fa798d24f6d6fd75
+      internalID: 2124151966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bd9f941af09564d86c9d2fa0f228f7
+      internalID: 1346468691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_67
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c741000dacc8e4f9948455165ebfa5
+      internalID: -205417926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aa64c75578de346bfa791727ef5134
+      internalID: 935444641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_69
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3d0e0ce1d04a04aa0825e7e8aff932
+      internalID: 1825133735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_70
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1bd269357e7984b98ae7d71cb60757
+      internalID: -1195461301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_71
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2afd9562fa42348b0442538384f509
+      internalID: 1562893010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_72
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86be55aabb7fe794e80ad679d8337101
+      internalID: 1383543432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_73
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456fb949ef5f6574d997cf9675d9041a
+      internalID: 1469196276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_74
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca47e6264b12604995731268a080f04
+      internalID: -707790670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_75
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8ec76ab9c2f224b93a56bfbd478793
+      internalID: -1891425985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 112
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53fc4e20dd604745818a20fff6a0a3e
+      internalID: 1637089903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fa00caeac009246b4eb1be57b3ac39
+      internalID: -796317869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbcad96cf0f7124a92675a448863f6c
+      internalID: -299283802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f61b04b1cc8f234ea5c1f95ea23da81
+      internalID: 369756803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_80
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de50cd66aa123147b5fee9226f3f844
+      internalID: -1854010729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c5f4e63e10d384bb6e179f8529be7d
+      internalID: -1688006413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_82
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 92
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92855862014c9e648965f07887be459a
+      internalID: -1089778435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6493b731909ab814f8099615a20800e4
+      internalID: 868183534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_84
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d40d9a7943732747a615c84e75c08f2
+      internalID: 1583944300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e543351b1e473a4892d7c4afc8fcba5
+      internalID: -1326954407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_86
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfa73ce8e5943b4e8b937569ce5b2a9
+      internalID: -1189901890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cbb549f663e5243aab74b0ed185933
+      internalID: -731363915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_88
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9494f95f4200a8c4ba51df029f151558
+      internalID: 308782983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947ae9256514db4498f98822999c584f
+      internalID: -1584945361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24031caf8eb335a4693daa14fbc81146
+      internalID: 1560177491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20069089a91f0444833c9f8cf46597b
+      internalID: 1769445096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_92
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deec04b20918610479e7876ae0391905
+      internalID: -475570140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b1f418526331c4f8b8d49934f20d05
+      internalID: 2005768677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 52
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c863f216578af874a9d53fb479c25b73
+      internalID: 2046086676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27440f49f98e16428383036fad58f59
+      internalID: 2059528767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_96
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ad5c97e445798499f46d123bf3febe
+      internalID: -559410131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_97
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54655335aed2bfe4c8f6097dacd4455a
+      internalID: -1509044531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_98
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cfa7a85c2d727459fe5dffbdb70416
+      internalID: -540895167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d596586c75fbe46b6644bedf6a7e35
+      internalID: -259871073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23db6f2f3ea21e04ca43f76c8a78a175
+      internalID: -1597179379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21761ee8561c63409a2b07721666971
+      internalID: 1946505265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_102
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d7aa4085cdb2041b06f8cfd77a6b7b
+      internalID: 1395402608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_103
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea9fc6489f61645a2e5801e55e2f78
+      internalID: -1706342819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_cave_bg_fluo_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc51fbb6e43c84fb9f22ad549dbe5d
+      internalID: -42302396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tile_cave_bg_fluo_0: -1296958731
+      tile_cave_bg_fluo_1: -1648107196
+      tile_cave_bg_fluo_10: -1172935786
+      tile_cave_bg_fluo_100: -1597179379
+      tile_cave_bg_fluo_101: 1946505265
+      tile_cave_bg_fluo_102: 1395402608
+      tile_cave_bg_fluo_103: -1706342819
+      tile_cave_bg_fluo_104: -42302396
+      tile_cave_bg_fluo_11: -335224373
+      tile_cave_bg_fluo_12: 1360681667
+      tile_cave_bg_fluo_13: -624054722
+      tile_cave_bg_fluo_14: 1556554221
+      tile_cave_bg_fluo_15: -1929153351
+      tile_cave_bg_fluo_16: 702902828
+      tile_cave_bg_fluo_17: -1458907633
+      tile_cave_bg_fluo_18: 110982338
+      tile_cave_bg_fluo_19: -2087556816
+      tile_cave_bg_fluo_2: 464599538
+      tile_cave_bg_fluo_20: 1649114405
+      tile_cave_bg_fluo_21: 2060356328
+      tile_cave_bg_fluo_22: 1256722256
+      tile_cave_bg_fluo_23: -495625386
+      tile_cave_bg_fluo_24: -435655102
+      tile_cave_bg_fluo_25: -921996385
+      tile_cave_bg_fluo_26: 1103495935
+      tile_cave_bg_fluo_27: 997197921
+      tile_cave_bg_fluo_28: -309007589
+      tile_cave_bg_fluo_29: -1556016127
+      tile_cave_bg_fluo_3: -350319380
+      tile_cave_bg_fluo_30: 871136459
+      tile_cave_bg_fluo_31: 165913551
+      tile_cave_bg_fluo_32: -2010844352
+      tile_cave_bg_fluo_33: -345285505
+      tile_cave_bg_fluo_34: 879181651
+      tile_cave_bg_fluo_35: -1268464267
+      tile_cave_bg_fluo_36: 1450135275
+      tile_cave_bg_fluo_37: -3968364
+      tile_cave_bg_fluo_38: -1238287207
+      tile_cave_bg_fluo_39: -291592983
+      tile_cave_bg_fluo_4: 294123100
+      tile_cave_bg_fluo_40: 2634487
+      tile_cave_bg_fluo_41: 1992651497
+      tile_cave_bg_fluo_42: -1489979765
+      tile_cave_bg_fluo_43: -1235464539
+      tile_cave_bg_fluo_44: 2078347433
+      tile_cave_bg_fluo_45: -1853991616
+      tile_cave_bg_fluo_46: 2106709480
+      tile_cave_bg_fluo_47: -240538312
+      tile_cave_bg_fluo_48: 458783666
+      tile_cave_bg_fluo_49: 414887127
+      tile_cave_bg_fluo_5: 689312741
+      tile_cave_bg_fluo_50: 14262375
+      tile_cave_bg_fluo_51: -878095163
+      tile_cave_bg_fluo_52: 1710364348
+      tile_cave_bg_fluo_53: 1105700343
+      tile_cave_bg_fluo_54: 833995950
+      tile_cave_bg_fluo_55: 213685908
+      tile_cave_bg_fluo_56: 1448686721
+      tile_cave_bg_fluo_57: -2004947879
+      tile_cave_bg_fluo_58: 1881975271
+      tile_cave_bg_fluo_59: 265019938
+      tile_cave_bg_fluo_6: -599784138
+      tile_cave_bg_fluo_60: 909624610
+      tile_cave_bg_fluo_61: -1782785704
+      tile_cave_bg_fluo_62: -1398844211
+      tile_cave_bg_fluo_63: 1274357817
+      tile_cave_bg_fluo_64: 1761326301
+      tile_cave_bg_fluo_65: 2124151966
+      tile_cave_bg_fluo_66: 1346468691
+      tile_cave_bg_fluo_67: -205417926
+      tile_cave_bg_fluo_68: 935444641
+      tile_cave_bg_fluo_69: 1825133735
+      tile_cave_bg_fluo_7: 1896704955
+      tile_cave_bg_fluo_70: -1195461301
+      tile_cave_bg_fluo_71: 1562893010
+      tile_cave_bg_fluo_72: 1383543432
+      tile_cave_bg_fluo_73: 1469196276
+      tile_cave_bg_fluo_74: -707790670
+      tile_cave_bg_fluo_75: -1891425985
+      tile_cave_bg_fluo_76: 1637089903
+      tile_cave_bg_fluo_77: -796317869
+      tile_cave_bg_fluo_78: -299283802
+      tile_cave_bg_fluo_79: 369756803
+      tile_cave_bg_fluo_8: 1280755658
+      tile_cave_bg_fluo_80: -1854010729
+      tile_cave_bg_fluo_81: -1688006413
+      tile_cave_bg_fluo_82: -1089778435
+      tile_cave_bg_fluo_83: 868183534
+      tile_cave_bg_fluo_84: 1583944300
+      tile_cave_bg_fluo_85: -1326954407
+      tile_cave_bg_fluo_86: -1189901890
+      tile_cave_bg_fluo_87: -731363915
+      tile_cave_bg_fluo_88: 308782983
+      tile_cave_bg_fluo_89: -1584945361
+      tile_cave_bg_fluo_9: 1759539945
+      tile_cave_bg_fluo_90: 1560177491
+      tile_cave_bg_fluo_91: 1769445096
+      tile_cave_bg_fluo_92: -475570140
+      tile_cave_bg_fluo_93: 2005768677
+      tile_cave_bg_fluo_94: 2046086676
+      tile_cave_bg_fluo_95: 2059528767
+      tile_cave_bg_fluo_96: -559410131
+      tile_cave_bg_fluo_97: -1509044531
+      tile_cave_bg_fluo_98: -540895167
+      tile_cave_bg_fluo_99: -259871073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
