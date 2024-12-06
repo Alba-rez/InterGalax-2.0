@@ -1,1 +1,1 @@
-<img src="doc/img/dNavegacion.png"/>
+<img src="img/dNavegacion.png"/>

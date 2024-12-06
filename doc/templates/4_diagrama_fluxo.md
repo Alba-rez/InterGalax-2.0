@@ -1,1 +1,1 @@
-<img src="doc/img/dFluxos.png"/>
+<img src="img/dFluxos.png"/>

@@ -105,42 +105,42 @@
 > - Os robots do planeta árido:
 >
 >
->  <img src="doc/img/Robot8.png"/>
->  <img src="doc/img/Robot12.png"/>
->  <img src="doc/img/Robot7.png"/>
->  <img src="doc/img/Robot9.png"/>
->  <img src="doc/img/Robot10.png"/>
+>  <img src="img/Robot8.png"/>
+>  <img src="img/Robot12.png"/>
+>  <img src="img/Robot7.png"/>
+>  <img src="img/Robot9.png"/>
+>  <img src="img/Robot10.png"/>
 >
 >
 >
 > - Os robots do planeta verde:
 >
 > 
->  <img src="doc/img/Robot10.png"/>
->  <img src="doc/img/Robot5.png"/>
->  <img src="doc/img/Robot13.png"/>
->  <img src="doc/img/Robot14.png"/>
->  <img src="doc/img/Robot16.png"/>
->  <img src="doc/img/Robot15.png"/>
+>  <img src="img/Robot10.png"/>
+>  <img src="img/Robot5.png"/>
+>  <img src="img/Robot13.png"/>
+>  <img src="img/Robot14.png"/>
+>  <img src="img/Robot16.png"/>
+>  <img src="img/Robot15.png"/>
 > 
 >
 >
 > - Os robots do planeta xeado : 
 >
 >
->  <img src="doc/img/robot1.png"/>
->  <img src="doc/img/Robot2.png"/>
->  <img src="doc/img/Robot4.png"/>
->  <img src="doc/img/Robot6.png"/>
+>  <img src="img/robot1.png"/>
+>  <img src="img/Robot2.png"/>
+>  <img src="img/Robot4.png"/>
+>  <img src="img/Robot6.png"/>
 >  
 >
 >
 > - Os robots do planeta desértico : 
 > 
 >
->  <img src="doc/img/Robot11.png"/>
->  <img src="doc/img/Robot3.png"/>
->  <img src="doc/img/Robot22.png"/>
+>  <img src="img/Robot11.png"/>
+>  <img src="img/Robot3.png"/>
+>  <img src="img/Robot22.png"/>
 >  
 >
 >
@@ -150,61 +150,61 @@
 >
 > - Caixa con combustible para a escea 1 e 3. : 
 >
->  <img src="doc/img/Box_01.png"/>
+>  <img src="img/Box_01.png"/>
 > 
 >
 > - Caixa para a escea 2: 
 >
->  <img src="doc/img/Box_02.png"/>
+>  <img src="img/Box_02.png"/>
 >
 >
 > - Caixa para a escea 4: 
 >
->  <img src="doc/img/Box_05.png"/>
+>  <img src="img/Box_05.png"/>
 >
 >
 >
 > * Diamantes: Conteñen 30 puntos que son combustible para a nave.Producen un son cando o xogador as recolle
 > 
->  <img src="doc/img/Crystal_03.png"/>
+>  <img src="img/Crystal_03.png"/>
 > 
 >
 > * Nave: Despegará sempre que Astro acceda a ela coa barra de combustible chea.
 >
-> <img src="doc/img/SpaceShip.png"/>
+> <img src="img/SpaceShip.png"/>
 >
 >
 > Situada na parte dereita do terreno de xogo:
 >
-> <img src="doc/img/Fase1.png"/>
+> <img src="img/Fase1.png"/>
 >
-> <img src="doc/img/Fase2.png"/>
+> <img src="img/Fase2.png"/>
 >
-> <img src="doc/img/Fase3.png"/>
+> <img src="img/Fase3.png"/>
 >
-> <img src="doc/img/Fase4.png"/>
+> <img src="img/Fase4.png"/>
 >
 >
 > * Trampas : Restan puntos se Astro as toca ( 50 puntos). A pérdida de puntos produce un son.
 
 >   - No planeta árido son picas situadas en puntos estratéxicos de paso ou debaixo de plataformas e consumen enerxía ao tocalas 
 >
-> <img src="doc/img/Spike_01.png"/>
+> <img src="img/Spike_01.png"/>
 >
 >  - No planeta frondoso as trampas son a propia vexetación, que debido á radiación consumen enerxía: 
 >
-> <img src="doc/img/flores.png"/>
+> <img src="img/flores.png"/>
 >
-> <img src="doc/img/grass.png"/>
+> <img src="img/grass.png"/>
 >
 >  - No planeta xeado as trampas son uns lásers situados en zonas de paso ou debaixo de platadormas.
 >
-> <img src="doc/img/trapsLaser.png"/>
+> <img src="img/trapsLaser.png"/>
 > 
 >  - No planeta desértico mineiro, as trampas son os cristáis que están en forma de estalactitas e estalacmitas, ademáis dos cogumelos azuis.
 >
->  <img src="doc/img/traps4.png"/>
->  <img src="doc/img/trapsEstalacM.png"/>
+>  <img src="img/traps4.png"/>
+>  <img src="img/trapsEstalacM.png"/>
 >  
 >
 >
@@ -218,7 +218,7 @@
 >
 > Pantalla inicial selección idioma :
 > 
->   <img src="doc/img/pantallaIdiomas.png"/>
+>   <img src="img/pantallaIdiomas.png"/>
 >   
 >
 > * Fondo: Unha pantalla apaisada cun fondo estelar en movemento descendente, creando a sensación de desprazamento. Cinco planetas destacan sobre este fondo: o máis cercano é un planeta árido, seguido por un frondoso,o xeado, o desértico e na distancia, a Terra.
@@ -235,12 +235,12 @@
 > 
 > Pantalla inicio en inglés : 
 > 
->  <img src="doc/img/pantalla0.png"/>
+>  <img src="img/pantalla0.png"/>
 >
 > Pantalla inicio en galego : 
 >
->   <img src="doc/img/IntroGalego.png"/>
->   <img src="doc/img/Intro2Galego.png"/>
+>   <img src="img/IntroGalego.png"/>
+>   <img src="img/Intro2Galego.png"/>
 > 
 > 
 > * Fondo: Unha pantalla apaisada cun fondo estelar en movemento descendente, creando a sensación de desprazamento. Cinco planetas destacan sobre este fondo: o máis cercano é un planeta árido, seguido por un frondoso,o xeado, o desértico e na distancia, a Terra.
@@ -258,11 +258,11 @@
 >  Pantalla en inglés : 
 > 
 >    
->    <img src="doc/img/pantalla1.png"/>
+>    <img src="img/pantalla1.png"/>
 >
 >  Pantalla en galego : 
 >
->   <img src="doc/img/hpGalego.png"/>
+>   <img src="img/hpGalego.png"/>
 > 
 >
 > * Fondo: Unha pantalla apaisada cun fondo estelar en movemento descendente, creando a sensación de desprazamento. Cinco planetas destacan sobre este fondo: o máis cercano é un planeta árido, seguido por un frondoso,o xeado, o desértico e na distancia, a Terra.
@@ -295,7 +295,7 @@
 >
 >  2. ### Pantalla 2 - Planeta árido/vermello ( FASE 1):
 >      
->      <img src="doc/img/pantalla2.png"/>
+>      <img src="img/pantalla2.png"/>
 >
 > * Ambiente: Unha paisaxe desértica con montañas puntiagudas de area no fondo. Inspirado no planeta dos Insectívoros (película "El juego de Ender").
 >
@@ -323,7 +323,7 @@
 >
 > 3. ### Pantalla 3 - Planeta frondoso/verde ( FASE 2):
 >       
->       <img src="doc/img/pantalla3.png"/>
+>       <img src="img/pantalla3.png"/>
 >
 > * Ambiente: Un entorno selvático con unha vexetación única que se alimenta de enerxía, distinta á da Terra. Astro atópase na parte superior do terreo, con árbores de troncos visibles no fondo. Inspirado na lúa de Endor, "planeta" onde viven os Ewoks.
 >
@@ -349,7 +349,7 @@
 >
 > 4. ### Pantalla 4 - Planeta xeado/branco ( FASE 3):
 >       
->       <img src="doc/img/pantalla4.png"/>
+>       <img src="img/pantalla4.png"/>
 >
 > * Ambiente: Un entorno nevado con unhas montañas xeadas. Astro atópase na parte superior do terreo. Inspirado no planeta Mann, da película Interestelar.
 >
@@ -373,7 +373,7 @@
 >
 > 5. ### Pantalla 5 - Planeta mineiro/amarelo ( FASE 4): 
 >       
->       <img src="doc/img/pantalla5.png"/>
+>       <img src="img/pantalla5.png"/>
 >
 > * Ambiente: Un entorno polvorento e totalmente desértico. Astro atópase na parte superior do terreo xusto detrás dunhas formacións rocosas. Inspirado no planeta Tatooine, Star Wars.
 >
@@ -401,11 +401,11 @@
 >
 > Pantalla final en inglés : 
 > 
-> <img src="doc/img/pantalla6.png"/>
+> <img src="img/pantalla6.png"/>
 >
 > Pantalla final en galego : 
 >
-> <img src="doc/img/finGalego.png"/>
+> <img src="img/finGalego.png"/>
 >
 >
 > * Fondo: Unha pantalla apaisada cun fondo estelar en movemento descendente, creando a sensación de desprazamento. Un planeta destaca sobre este fondo: a Terra.
@@ -424,20 +424,20 @@
 > O HUD mostra unha barra de combustible na esquina superior dereita e as vidas restantes na esquina superior esquerda.
 > 
 >
->   <img src="doc/img/hud.png"/> 
+>   <img src="img/hud.png"/> 
 >
 > Se se preme a tecla P, pausase o xogo. 
 > 
->  <img src="doc/img/pauseIngles.png"/>
+>  <img src="img/pauseIngles.png"/>
 >
->  <img src="doc/img/pausaGalego.png"/>
+>  <img src="img/pausaGalego.png"/>
 > 
 >
 >  Se o xogo termina, sae unha mensaxe indicando Game Over :  
 >
->  <img src="doc/img/goGalego.png"/>
+>  <img src="img/goGalego.png"/>
 > 
->  <img src="doc/img/goIngles.png"/>
+>  <img src="img/goIngles.png"/>
 > 
 > ### ARTE
 >

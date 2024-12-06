@@ -17,4 +17,4 @@ e do aspecto visual do xogo.
 - **Adaptabilidade Multilingüe**: Inclúe exemplos de como os textos e botóns se adaptan aos dous idiomas dispoñibles 
 (**galego** e **inglés**) mediante o sistema de selección con bandeiras.
 
-<img src="doc/img/mockup.png"/>
+<img src="img/mockup.png"/>
